@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "Pp30Z0O9K19IWFxPbzC+cfzwWY1CwsK2b9m/A5cmkdY9491v92Ham8oKp4IYV+rVuL6RIEFXd8TP8p/Y0aHozw==",
+  "success": true,
+  "projectFilePath": "D:\\Fevzi\\source\\repos\\Redis_Cache_Example\\InMemory.Caching\\InMemory.Caching.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Fevzi\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Fevzi\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Fevzi\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\Fevzi\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\Fevzi\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\Fevzi\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
